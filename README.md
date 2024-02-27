@@ -3,9 +3,7 @@
 Данный плагин добавит на ваш сервер **[PocketMine v5.0](https://github.com/pmmp/PocketMine-MP)** интересную мини игру,
 которая разнообразит игру игрокам вашего сервера.
 
-<div align="center">
-        <video src="https://dygers.fun/images/demo/finditems.mp4" width="79%"/>
-</div>
+[![Видео на YouTube](https://img.youtube.com/vi/GPzlIYFCn6I/0.jpg)](https://www.youtube.com/watch?v=GPzlIYFCn6I)
 
 ## Библиотеки
 
